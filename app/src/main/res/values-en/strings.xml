@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Which Fuel</string>
+    <string name="answer_ethanol">Fill up with ethanol.</string>
+    <string name="answer_gas">Fill up with gasoline.</string>
+    <string name="message_gas">Price per liter of gasoline:</string>
+    <string name="message_ethanol">Price per liter of ethanol:</string>
+    <string name="button_text">What is the best option?</string>
+    <string name="text_info">Enter the value of both fuels.</string>
+    <string name="text_err">Invalid value</string>
+</resources>
